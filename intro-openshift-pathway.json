@@ -9,6 +9,11 @@
       "title": "Getting Started with OpenShift for Developers"
     },
     {
+      "external_link": "https://learn.openshift.com/introduction/intro-embedded-tomcat/",
+      "course_id": "intro-embedded-tomcat",
+      "title": "Getting Started with Tomcat on OpenShift for Developers"
+    },
+    {
       "external_link": "https://learn.openshift.com/introduction/cluster-access/",
       "course_id": "cluster-access",
       "title": "Logging in to an OpenShift Cluster"
