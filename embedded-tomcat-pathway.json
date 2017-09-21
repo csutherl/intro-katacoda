@@ -1,0 +1,13 @@
+{
+  "title": "Learn How to Use Embedded Tomcat",
+  "description": "Learn How to Use Embedded Tomcat",
+  "paid": false,
+  "courses": [
+    {
+      "external_link": "http://learn.openshift.com/embedded-tomcat/intro-embedded-tomcat",
+      "course_id": "intro-embedded-tomcat",
+    	"title": "Introduction to Embedded Tomcat",
+    	"description": ""
+    }
+  ]
+}
