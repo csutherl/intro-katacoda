@@ -1,7 +1,7 @@
 # Use SSH to run each step on the host for setup
 
 # Install jdk
-ssh root@host01 "yum install java-1.8.0-openjdk-devel.x86_64 -y && export JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk"
+ssh -i ~/.ssh/id_rsa root@host01 "yum install java-1.8.0-openjdk-devel.x86_64 -y && export JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk"
 
 # Installing maven
 ssh root@host01 "wget http://www.pirbot.com/mirrors/apache/maven/maven-3/3.5.0/binaries/apache-maven-3.5.0-bin.tar.gz"
